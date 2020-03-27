@@ -7,4 +7,8 @@ for i in range(10):
 
 print(sum%10)
 
-print("27-03-2020")
+x = [1,5,4,7,1,3,25]
+
+x.sort()
+print(x)
+
